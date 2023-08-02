@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "alg_mlp_networks.h": "c"
+    }
+}
